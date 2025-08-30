@@ -1,6 +1,5 @@
 
-## InterFace
-![Logo](screenshots/s1.png)
+# Visualizer Tool ![Logo](icons/logo.png)
 
 A powerful Visualization tool that allows users to draw various shapes based on their input.
 
