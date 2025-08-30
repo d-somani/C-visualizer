@@ -1,4 +1,6 @@
 
+## InterFace
+![Logo](screenshots/s1.png)
 
 A powerful Visualization tool that allows users to draw various shapes based on their input.
 
@@ -9,6 +11,8 @@ A powerful Visualization tool that allows users to draw various shapes based on 
 - Customization options for shape properties (color, size, position)
 - User-Friendly shortcuts
 
+## InterFace
+![Logo](screenshots/s1.png)
 
 ## Getting Started
 
